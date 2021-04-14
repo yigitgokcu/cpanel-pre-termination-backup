@@ -1,4 +1,4 @@
-#### A small Python script for automating cPanel backups before account termination.
+#### A small Python script for automating pre-termination cPanel backups.
 
  * Create a directory for store backups ```/home/terminationbackups/``` 
  * Put scripts under ```/usr/local/sbin/``` 
